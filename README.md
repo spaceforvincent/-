@@ -14,4 +14,4 @@
 
 ###### 그리고 또 하나 정말정말 도움이 많이 된 캐글 사이트 소개
 
-(https://www.kaggle.com/agileteam/bigdatacertificationkr)
+https://www.kaggle.com/agileteam/bigdatacertificationkr
